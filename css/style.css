@@ -108,6 +108,11 @@ footer{
 .rodape ul li a{
     text-decoration: none;
 }
+.rodape ul li a:hover{
+    border: solid 2px red;
+    padding: 4px;
+    border-radius: 3px;
+}
 .rodape{
     position: relative;
     left: 10%;
